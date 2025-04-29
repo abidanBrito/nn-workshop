@@ -1,2 +1,2 @@
-# cnn-workshop
-A series of notebooks about introductory convolutional neural networks.
+# nn-workshop
+A series of foundational notebooks about Artificial Neural Networks (ANNs).
